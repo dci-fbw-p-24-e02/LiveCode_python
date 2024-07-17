@@ -11,7 +11,6 @@ def main():
     num2 =sys.argv[3]
 
     # convert arguments to proper type
-
     try:
         num1 = float(num1)
         num2 = float(num2)
